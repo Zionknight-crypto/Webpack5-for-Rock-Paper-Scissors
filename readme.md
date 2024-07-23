@@ -9,3 +9,11 @@ This repo is for anyone wishing to utilize the current basic **webpack 5 bundler
 3. Terminal #1 run `npm install`
 4. Terminal #1 run `npm run build`
 5. Terminal #2 run `npm run start`
+
+# Play the Game
+
+The games should be served on localhost:3000. You can play the game by clicking on the buttons. The game is a simple Rock, Paper, Scissors game. The game is played against the computer.
+
+# How it should appear in the browser
+
+![game_screenshot](https://github.com/user-attachments/assets/25edb267-d8e4-48b7-9deb-48796bb99c22)
