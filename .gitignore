@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules
+
+# Lock files (consider including these based on your needs)
+package-lock.json
+
+# Build output
+dist
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
