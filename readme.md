@@ -8,7 +8,7 @@ This repo is for anyone wishing to utilize the current basic **webpack 5 bundler
 2. Open two terminals
 3. Terminal #1 run `npm install`
 4. Terminal #1 run `npm run build`
-5. Terminal #2 run `npm run start`
+5. Terminal #2 run `npm run dev`
 
 # Play the Game
 
